@@ -5,4 +5,4 @@ DataPie
 
 下载地址：
 
-https://github.com/yfl8910/DataPiePulic/blob/main/DataPie.zip
+https://github.com/yfl8910/DataPiePublic/blob/main/DataPie.zip
